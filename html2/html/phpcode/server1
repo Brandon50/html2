@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "<pre>";
+$strl1 = $_SERVER['REMOTE_ADDR'];
+echo "$strl <hr />";
+echo date('Y-m-d H:i:s');
+echo "</pre>";
+?>
+
+</body>
+</html>
+
